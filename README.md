@@ -5,4 +5,5 @@ screts
 ```
 NGROK_AUTH_TOKEN
 ```
-next start with rerun it
+Then start the action 
+Next start with rerun it
